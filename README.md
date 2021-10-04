@@ -2,9 +2,11 @@
 
 - 👀 I’m interested in ... web development and web application security.
 
-- 🌱 I’m currently learning ... Cloud computing and Golang
+- 🌱 I’m currently learning ... React and Golang
 
-- 💞️ I’m looking to collaborate on ... web development related projects and backend development.
+- Also a Cloud Enthusiat with knowledge in GCP.
+
+- 💞️ I’m looking to collaborate on ... web development related projects and backend development with PHP.
 
 - 📫 How to reach me ... email me at wawinyedwin44@gmail.com
 
