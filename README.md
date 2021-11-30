@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning ... React and Golang
 
-- Also a Cloud Enthusiat with knowledge in GCP.
+- Also a Cloud Enthusiasts with knowledge in GCP.
 
-- 💞️ I’m looking to collaborate on ... web development related projects and backend development with PHP.
+- 💞️ I’m looking to collaborate on ... web development related projects and backend development with Go.
 
 - 📫 How to reach me ... email me at wawinyedwin44@gmail.com
 
