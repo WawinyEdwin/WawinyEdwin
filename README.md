@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WawinyEdwin
 
-- 👀 I’m interested in ... web development and web application security.
+- 👀 I’m interested in ... DevOps Engineering.
 
 - 🌱 I’m currently learning ... React and Golang
 
