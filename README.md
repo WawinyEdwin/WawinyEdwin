@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WawinyEdwin
 
-- 👀 I’m interested in ... DevOps Engineering.
+- 👀 I’m interested in ... DevOps and Cloud.
 
-- 🌱 I’m currently learning ... React and Golang
+- 🌱 I’m currently learning ... Site Reliability Engineering and Cloud
 
 - Also a Cloud Enthusiasts with knowledge in GCP.
 
