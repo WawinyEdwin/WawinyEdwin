@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ... Site Reliability Engineering and Cloud
 
-- Also a Cloud Enthusiasts with knowledge in GCP.
+- Also a Cloud Enthusiasts with knowledge in GCP and Azure.
 
 - 💞️ I’m looking to collaborate on ... web development related projects and backend development with Go.
 
