@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @WawinyEdwin
-
-- 👀 I’m interested in ...Solving Problems with Technology.
+- 👋 Hi, I’m a computer programmer & 24 hours a day/Everyday I spend learning.
 
 - 📫 How to reach me ... email me at wawinyedwin44@gmail.com
 
