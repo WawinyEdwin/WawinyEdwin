@@ -2,9 +2,10 @@ Engineer
 ```
 def profile():
   info =  """
-  name: Wawiny \n
-  twitter: @_wawiny \n
+  name: Wawiny
+  twitter: @_wawiny
   Interests: Backend, SRE
+  Writes: .py, .js .ts .go
   """
   print(info)
   return 
