@@ -1,6 +1,17 @@
-- 👋 Hi, I’m a computer programmer & 24 hours a day/Everyday I spend learning.
-
-- 📫 How to reach me ... email me at wawinyedwin44@gmail.com
+Engineer
+```
+def profile():
+  print(
+  """
+  name: Wawiny \n
+  twitter: @_wawiny \n
+  Interests: Backend, SRE
+  """
+  )
+  return 
+  
+ profile()
+```
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WawinyEdwin&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=WawinyEdwin&theme=vue-dark&hide_border=false)<br/>
