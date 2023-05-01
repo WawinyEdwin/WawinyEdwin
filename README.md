@@ -6,7 +6,7 @@
   
   Interests: Backend, SRE
   
-  Writes: .py, .js .ts .go
+  Writes: .py .js .ts .go
 
 ```
 <!---
