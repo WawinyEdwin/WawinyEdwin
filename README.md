@@ -1,13 +1,12 @@
 Engineer
 ```
 def profile():
-  print(
-  """
+  info =  """
   name: Wawiny \n
   twitter: @_wawiny \n
   Interests: Backend, SRE
   """
-  )
+  print(info)
   return 
   
  profile()
