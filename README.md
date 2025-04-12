@@ -4,7 +4,7 @@
   
   twitter: @_wawiny
   
-  Interests: Backend, SRE
+  Interests: Backend
   
   Writes: .py .js .ts .go
 
