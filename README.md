@@ -1,9 +1,5 @@
 
 ```
-  name: Wawiny
-  
-  twitter: @_wawiny
-  
   Interests: Backend
   
   Writes: .py .js .ts .go
